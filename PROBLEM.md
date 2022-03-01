@@ -6,4 +6,4 @@
 ### 3. Install react-bootstrap and start building the application.
 ### 4. Use the below image to take the reference.
 
-![Make an application with resusable components](https://gitlab-wipro.stackroute.in/mern-react-boilerplates/crs-sur-1030/react-bootstrap-practice/-/raw/master/S116-P1.png)
+![Make an application with resusable components](https://gitlab-wipro.stackroute.in/mern-react-boilerplates/crs-sur-1030/react-bootstrap-practice/-/raw/master/S0116-P1.png)
