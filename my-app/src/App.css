@@ -1,0 +1,30 @@
+.widthnavbar {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.Banner {
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+    margin-top: 2rem;
+    width: 100%;
+}
+/* .smallimages{} */
+
+.Cards {
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+    margin-top: 2rem;
+}
+.navbar-brand {
+    display: inline-block;
+    margin-right: auto;
+    padding-left: 10px;
+}
+.Footer {
+    margin-top: 28px;
+    padding-left: 15%;
+    padding-right: 15%;
+    color: grey;
+}
